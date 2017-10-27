@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1438990403 source:i:\bubt\onedrive\9th semester\study files\graphics design\lab\final\circle\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
+1438990403 source:h:\bubt\onedrive\9th semester\study files\graphics design\lab\final\circle\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
